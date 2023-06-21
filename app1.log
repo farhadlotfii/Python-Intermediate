@@ -1,0 +1,5 @@
+DEBUG -- 2023-04-14 18:32:52 -- 12 - Logging.py:16 --This is a DEBUG (10) level log
+INFO -- 2023-04-14 18:32:52 -- 12 - Logging.py:17 --This is a INFO (20) level log
+WARNING -- 2023-04-14 18:32:52 -- 12 - Logging.py:18 --This is a WARNING (30) level log
+ERROR -- 2023-04-14 18:32:52 -- 12 - Logging.py:19 --This is a ERROR (40) level log
+CRITICAL -- 2023-04-14 18:32:52 -- 12 - Logging.py:20 --This is a CRITICAL (50) level log
