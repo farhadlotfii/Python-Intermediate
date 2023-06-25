@@ -4,43 +4,34 @@ This repository contains code examples and exercises for learning intermediate-l
 
 ## Getting Started
 
-To use the materials in this repository, you should have Python 3 installed on your computer and be familiar with the basics of Python. You can download the latest version of Python from the [official website](https://www.python.org/downloads/).
+To use the materials in this repository, you should have Python 3 installed on your computer. You can download the latest version of Python from the [official website](https://www.python.org/downloads/).
 
 Once you have Python installed, you can clone this repository to your local machine using Git:
 ```
-git clone https://github.com/your-username/python-intermediate.git
+git clone https://github.com/farhadlotfii/python-basics.git
 ```
-
 Alternatively, you can download a ZIP archive of the repository and extract it to a local folder.
 
 ## Contents
 
 The repository contains the following directories:
 
-- `examples`: Code examples that demonstrate various intermediate-level Python concepts and features.
-- `exercises`: Practice exercises for applying the concepts learned in the examples.
-- `solutions`: Sample solutions for the exercises (provided for reference only).
-- `tests`: Automated tests for the exercises (requires pytest library).
+- `notebooks`: Jupyter notebooks with code examples and exercises.
+- `data`: Sample datasets used in the notebooks.
 
 ## Usage
 
-You can run the example scripts by executing the Python interpreter with the filename as an argument:
+You can run the Jupyter notebooks by starting a Jupyter server in the repository directory:
 ```
-python examples/advanced_data_types.py
+jupyter notebook
 ```
-You can run the exercises by editing the files in the `exercises` directory and running the corresponding test script in the `tests` directory:
-```
-python tests/test_advanced_data_types.py
-```
-The tests will check if your code produces the expected output for each exercise.
+This should open a web browser with the Jupyter interface. You can then navigate to the `notebooks` directory and open the desired notebook.
+
+The notebooks contain code examples and exercises that demonstrate various machine learning concepts and techniques. You can run the code cells in the notebooks by clicking on them and pressing `Shift+Enter`.
 
 ## Contributing
 
-If you find a bug or have a suggestion for improving the materials, you can create an issue on the [GitHub repository page](https://github.com/your-username/python-intermediate/issues). You can also submit a pull request if you want to contribute code changes.
-
-## License
-
-This repository is licensed under the MIT License. See the `LICENSE` file for details.
+If you find a bug or have a suggestion for improving the materials, you can create an issue on the [GitHub repository page](https://github.com/farhadlotfii/python-basics/issues). You can also submit a pull request if you want to contribute code changes.
 
 ## Topics
 
